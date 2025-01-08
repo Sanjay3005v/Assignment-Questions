@@ -158,3 +158,9 @@ Write a program, which will require the user to give values of hardness, carbon 
 5. Design a method to find average value of the array elements.
 6. Design a method to print all the even values in the array.
 7. Design a method to return sum of all the even values in the array.
+8. Write a java program to assign the values to the elements of an array
+9. Write a java program to read the value of array elements from the user.
+10.Write a java program to find the maximum value in the array by taking input from the user.
+11.Design a method to find the minimum value of the array by taking input from the user.
+12.Design a method to print the first half of the array.
+13.Design a method to add the second half elements of the array by taking input from the users.
