@@ -153,3 +153,8 @@ If the time taken is between 4-5 hours, the worker is given training to improve 
  	5) Grade is 6 if only one condition is met
 	6) Grade is 5 if none of the conditions are met
 Write a program, which will require the user to give values of hardness, carbon content and tensile strength of the steel under consideration and out the grade of the steel.
+3. Write a java program to print all the even index elements.
+4. Design a method to find the addition of all the even index array elements.
+5. Design a method to find average value of the array elements.
+6. Design a method to print all the even values in the array.
+7. Design a method to return sum of all the even values in the array.
