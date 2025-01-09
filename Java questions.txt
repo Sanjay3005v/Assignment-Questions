@@ -164,3 +164,6 @@ Write a program, which will require the user to give values of hardness, carbon 
 11.Design a method to find the minimum value of the array by taking input from the user.
 12.Design a method to print the first half of the array.
 13.Design a method to add the second half elements of the array by taking input from the users.
+
+Assignment jan9
+1. Write a program to create two class having individual main method, call the main method of class one inside main method of class two. 
