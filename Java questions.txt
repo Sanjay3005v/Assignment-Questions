@@ -167,3 +167,4 @@ Write a program, which will require the user to give values of hardness, carbon 
 
 Assignment jan9
 1. Write a program to create two class having individual main method, call the main method of class one inside main method of class two. 
+2. Design a method to print the array after taking input from the user.
