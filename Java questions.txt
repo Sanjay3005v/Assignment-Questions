@@ -168,3 +168,19 @@ Write a program, which will require the user to give values of hardness, carbon 
 Assignment jan9
 1. Write a program to create two class having individual main method, call the main method of class one inside main method of class two. 
 2. Design a method to print the array after taking input from the user.
+3. Design a method to swap two given index elements from the array.
+4. Design a method to return index of the array element given as input.
+5. Design a method the first minimum value in the array.
+6. Design a method to find the output maximum value in the first half of the array.
+7. Design a method to find the addition of second half elements of the array.
+8. Design a method to read all the array elements in reverse order.
+9. Design a method to right shift the elements of the array in 1.(important)
+10.Design a method to find average of second half elements of the array.
+11.Design a method to find frequency of every element of the array.
+12.Design a method to copy the one array element in another array.
+13.Design a method to find the difference of the maximum and minimum element of the array.
+14.Design a method to remove an element of the array from the given index.
+15.Design a method to reverse an array.(important).
+16.Design a method to find second minimum value of the given array.
+17.Design a method to merge two arrays and store the value in the third array.
+
