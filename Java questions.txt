@@ -184,3 +184,24 @@ Assignment jan9
 16.Design a method to find second minimum value of the given array.
 17.Design a method to merge two arrays and store the value in the third array.
 
+Assignment of Jan10
+
+1. Design a method to sort the array element in descending order.
+2. Design a method to sort array elements between two index value.
+3. Design a method to sort second half elements of the array.
+4. Design a method to print the elements of the array using for each loop.
+5. Design a method to reverse an array.
+6. Design a method to reverse the element of an array between two index values.
+7. Design a method reverse the second half elements of the array.
+8. Design a method to reverse only the even indexed elements.
+9. Design a method to print the duplicate elements in the array.
+10.Design a method to print unique elements in the array.
+11.Design a method to shift the elements towards left once.
+12.Design a method to rotate elements towards right for n times.(important)
+13.Design a method to find all the missing elements in the array in the range of minimum and maximum value.
+14.Design a method to rotate the second half of the element towards right.
+15.Design a method to remove all the odd index elements from the array.
+16.Design a method to reverse each element of the array.
+17.Design a method to find the nth minimum value in the array.
+
+
