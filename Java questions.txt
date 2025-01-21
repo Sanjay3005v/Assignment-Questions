@@ -205,3 +205,18 @@ Assignment of Jan10
 17.Design a method to find the nth minimum value in the array.
 
 
+Assignment of Jan20
+1. Design a method to rotate elements towards right for n times.(12th in Jan10).
+2. Design a method to remove the given element from the array.
+3. Design a method to merge two arrays in sorted and copy the elements inside third array.(important) 
+4. Design a method to merge two arrays and copy the elements in the third array.
+5. Design a method to find second maximum value in the array.
+
+
+Assignment of Jan21
+
+1. Design a method to find unique elements or distinct elements in the array.
+2. Design a method to print duplicate elements in the array.
+3. Design a method to print all the elements in the array only once.
+
+
