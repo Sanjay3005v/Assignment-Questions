@@ -229,3 +229,8 @@ Assignment of Jan22
 2. Write a java program to sum all the even digits in a number.
 3. Design a method to print all the elements of a 2d array.
 4. Design a method to print all the array size present inside 2d array.
+5. Design a method to print all the even values in the matrix.
+6. Design a method to find addition of all the major diagonal elements of a square matrix.
+7. Design a method to find addition of all the elements in the individual row of the matrix.
+8. Design a method to find largest value in the square matrix.
+9. Design a method to find largest value of the individual row of the matrix.
