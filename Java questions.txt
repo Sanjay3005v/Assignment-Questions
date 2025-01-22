@@ -218,5 +218,12 @@ Assignment of Jan21
 1. Design a method to find unique elements or distinct elements in the array.
 2. Design a method to print duplicate elements in the array.
 3. Design a method to print all the elements in the array only once.
+4. Design a method to find second minimum value of the array.
+5. Write a program to store student subject score inside an array, when each student has three subjects individually all the student marks should be stored in one array.
 
+
+Assignment of Jan22
+
+
+1. The function takes two integrals m and n as arguments, You are required to obtain the total of all integers ranging between 1 to n (both inclusive) which are not divisible by m. You must also return the distinction between the sum of integers not divisible by m with the sum of integers divisible by m. Assumption m > 0 and n>0 Sum lies within the integral range.
 
