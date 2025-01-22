@@ -234,3 +234,8 @@ Assignment of Jan22
 7. Design a method to find addition of all the elements in the individual row of the matrix.
 8. Design a method to find largest value in the square matrix.
 9. Design a method to find largest value of the individual row of the matrix.
+10.Design a method to read matrix elements from the users.
+11.Design a method to show the addition of all the column elements individually in the matrix.
+12.Design a method to copy the elements if one matrix into another matrix.
+13.Design a method to find the transpose of a matrix.
+14.Design a method to add the elements of two matrix and store the result in third matrix.(for square matrix)
