@@ -273,3 +273,4 @@ Assignment of Jan23
 1. Design a method to remove the even index elements of the array.
 2. Design a method to find the missing element in the array.
 3. Design a method to find all the missing elements present in the range of minimum and maximum value of the array.
+4. Design a method to perform multiplication of two matrix and store the result between 3rd matrix.
