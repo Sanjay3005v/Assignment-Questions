@@ -239,3 +239,8 @@ Assignment of Jan22
 12.Design a method to copy the elements if one matrix into another matrix.
 13.Design a method to find the transpose of a matrix.
 14.Design a method to add the elements of two matrix and store the result in third matrix.(for square matrix)
+
+Assignment of Jan23
+
+1. Design a method to remove the even index elements of the array.
+2. Design a method to find the missing element in the array.
