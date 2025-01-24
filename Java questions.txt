@@ -281,3 +281,5 @@ Assignment of Jan24
 1. Design a method to find the product of all the minor diagonal elements from a matrix .
 2. Design a method to find the smallest value in every column of the matrix.
 3. Design a method to find the elements which gives the sum of given input value from the array.(return two elements whose sum is the given input value).
+4. Design a method to print all the elements of the matrix using for each loop.
+5. Design a method to print the sub array of the given array.
