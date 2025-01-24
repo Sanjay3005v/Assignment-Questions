@@ -274,3 +274,10 @@ Assignment of Jan23
 2. Design a method to find the missing element in the array.
 3. Design a method to find all the missing elements present in the range of minimum and maximum value of the array.
 4. Design a method to perform multiplication of two matrix and store the result between 3rd matrix.
+
+
+Assignment of Jan24
+
+1. Design a method to find the product of all the minor diagonal elements from a matrix .
+2. Design a method to find the smallest value in every column of the matrix.
+3. Design a method to find the elements which gives the sum of given input value from the array.(return two elements whose sum is the given input value).
