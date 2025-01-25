@@ -283,3 +283,7 @@ Assignment of Jan24
 3. Design a method to find the elements which gives the sum of given input value from the array.(return two elements whose sum is the given input value).
 4. Design a method to print all the elements of the matrix using for each loop.
 5. Design a method to print the sub array of the given array.
+
+
+Assignment of Jan25
+1. Design a method to move all the negative values in the array to the left without changing the order.
