@@ -286,4 +286,11 @@ Assignment of Jan24
 
 
 Assignment of Jan25
+
 1. Design a method to move all the negative values in the array to the left without changing the order.
+
+
+Assignment of Jan27
+
+1. Design a method for an Object car with three states create three car objects and assign value for three objects and print the value.
+2. Design a class for employees with minimum three states create three objects and initialize the states.
