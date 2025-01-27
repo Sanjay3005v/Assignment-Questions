@@ -294,3 +294,5 @@ Assignment of Jan27
 
 1. Design a method for an Object car with three states create three car objects and assign value for three objects and print the value.
 2. Design a class for employees with minimum three states create three objects and initialize the states.
+3. Design a class for (Bag, Pen, Bike, car, Flower, Board, Mic, Animal, Home, Bus) with minimum three states create three objects and initialize the states.
+4. Design a class for an object and initialize the state of the object using Non-static method and display the states using non static method-->2 separate method to initialize and to display.
