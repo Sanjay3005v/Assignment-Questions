@@ -301,3 +301,4 @@ Assignment of Jan27
 Assignment of Jan28
 
 1. Design a class Laptop create three states to display the states and create a non static method and create three objects initialize the states and display  the states.
+2. Design a class and initialize the states of object using constructor and declare the object using a method, object with minimum 3 statesman 3 objects.
