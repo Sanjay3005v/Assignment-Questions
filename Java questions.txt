@@ -296,3 +296,8 @@ Assignment of Jan27
 2. Design a class for employees with minimum three states create three objects and initialize the states.
 3. Design a class for (Bag, Pen, Bike, car, Flower, Board, Mic, Animal, Home, Bus) with minimum three states create three objects and initialize the states.
 4. Design a class for an object and initialize the state of the object using Non-static method and display the states using non static method-->2 separate method to initialize and to display.
+
+
+Assignment of Jan28
+
+1. Design a class Laptop create three states to display the states and create a non static method and create three objects initialize the states and display  the states.
