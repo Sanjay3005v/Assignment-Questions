@@ -310,4 +310,5 @@ Assignment of Jan29
 whose product is the maximum.
 2. Write a java program to count the number of sub arrays which the sum of target element.
 3. Write a java program to print all the sub array whose sum of the elements equals to target elements.
+4. Design a class which consists of two non static variables two over loaded constructors two non static methods two single line initializers and two multiline initializers create two object one using no argument and another using parameterized constructor.
 
