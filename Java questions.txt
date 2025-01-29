@@ -308,4 +308,6 @@ Assignment of Jan29
 
 1. Design a method to return the count of pair of elements in the array which returns the given sum and find the pair 
 whose product is the maximum.
+2. Write a java program to count the number of sub arrays which the sum of target element.
+3. Write a java program to print all the sub array whose sum of the elements equals to target elements.
 
