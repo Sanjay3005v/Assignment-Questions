@@ -317,3 +317,28 @@ Assignment of Jan30
 
 1. Given an array of integer find out the maximum difference between any two elements such that the larger value should appear after the smaller number.
 2 Design a method to add plus one value to the last element of the array and return the array.
+
+Assignment of May14
+
+1. 
+-->Print "Employee Tracking System"
+-->We want to track employees in a company. Each employee has a unique ID, name , and department and company Name.
+-->The company also has a static count of how many employees have been created.
+-->Increase the count of Employee whenever the object is created.
+-->Print date and time for every employee object created.
+
+2.
+You are required to design a class LibraryMember to manage members of a library system. Implement the following features in your class: 
+-->A static variable totalMembers that keeps track of the total number of members registered. 
+-->Non-static variables to store each member's name and member ID. 
+-->A static initializer block that prints "Library Management system". 
+-->A non-static initializer block that prints "Creating a new LibraryMember object..." before each member object is created. 
+-->A constructor that takes a member's name as input, increments the total member count, assigns it as the member's ID, and prints "Member registered: [Name], ID: [ID]". 
+-->A static method getTotalMembers() that returns the total number of members. 
+-->A non-static method showMemberDetails() that prints the name and ID of the member. 
+
+Also, write a LibrarySystem class with a main method that: 
+::Displays the total number of members before creating any member. 
+::Creates at least two members. 
+::Displays the details of each member. 
+::Displays the updated total number of members after creation.
