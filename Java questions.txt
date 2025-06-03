@@ -363,3 +363,22 @@ The string may contain:
 ::Digits (0-9) 
 ::Punctuation and special symbols 
 ::Whitespaces 
+
+3. You are building a content moderation feature for a messaging app. Messages containing banned words such as "bad", "hate", and "ugly" should be blocked to ensure a positive user experience. 
+Write a function that checks whether a given input message contains any banned word, and returns True if it does, otherwise False. 
+
+Input Format 
+::A string message containing the text input by the user. 
+::A predefined list of banned words: 
+Output Format 
+::Return True if any banned word is found in the message (case-insensitive). 
+Return False if no banned words are present. 
+
+banned_words ["bad", "hate", "ugly"] 
+Example1: 
+Input: "I think that is a bad idea" 
+output: true 
+Example2: 
+Input: "You are awesome!" 
+Output: false 
+
