@@ -353,3 +353,13 @@ The string can contain:
 ::Alphabets (both uppercase and lowercase) 
 ::Digits (0-9) 
 ::Punctuation symbols (e.g., !@#$%^&*()) 
+
+2.  You are developing a statistics feature in a messaging app that analyzes user messages. Your task is to write a function that counts the number of vowels and consonants in a given message. 
+Ignore digits, special characters, and spaces while counting. Only English alphabet letters (A-Z or a-z) are considered. 
+Input Format 
+A single string message representing the user's input. 
+The string may contain: 
+::Uppercase and lowercase letters 
+::Digits (0-9) 
+::Punctuation and special symbols 
+::Whitespaces 
