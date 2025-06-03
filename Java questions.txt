@@ -342,3 +342,14 @@ Also, write a LibrarySystem class with a main method that:
 ::Creates at least two members. 
 ::Displays the details of each member. 
 ::Displays the updated total number of members after creation.
+
+Assignment of June03
+
+1.You are developing a feature for a messaging application that allows users to reverse any message they type. This feature will be used for fun, or to create secret/encoded messages. 
+Write a function that takes a string input and returns the reversed version of that string. 
+Input Format:-
+=>A single line containing a string message (1≤ length ≤ 1000). 
+The string can contain: 
+::Alphabets (both uppercase and lowercase) 
+::Digits (0-9) 
+::Punctuation symbols (e.g., !@#$%^&*()) 
