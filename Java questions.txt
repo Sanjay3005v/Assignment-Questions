@@ -382,3 +382,100 @@ Example2:
 Input: "You are awesome!" 
 Output: false 
 
+Assignments of June 4
+
+1.  You are building a feature for a messaging app that lets users check if their message is a palindrome a string that reads the same forwards and backwards when ignoring case, spaces, and special characters. 
+Your task is to write a function that returns True if the cleaned version of the input string is a palindrome, and False otherwise. 
+
+Input Format 
+A single string message of length 1 len (message) ≤ 1000 
+
+The string may contain: 
+Letters (A-Z, a-z) 
+::Digits (0-9) 
+::Whitespace characters 
+::Punctuation/special characters (e.g., @@$%^&*()_+[]{};:,<>?) I 
+
+Output Format 
+-->Return True if the cleaned message is a palindrome. 
+-->Return False otherwise. 
+
+2 .    Use Case: Validating OTPs (One-Time Passwords), PIN codes, or numeric verification codes. 
+
+ Example: A login form sends an OTP "123456" to a user's phone and checks whether the user input contains only digits. 
+Validation: Rejects if user enters "12345" or "12345". 
+Your task is to write a function that checks whether a given string consists only of numeric digits. 
+The function should return True if every character in the string is a digit (0-9), and False otherwise. 
+
+Input Format 
+::A single string message of length 1 len(message) ≤ 1000. 1 
+The string may contain: 
+::Digits (0-9) 
+::Alphabetic characters (A-Z, a-z) 
+::Special characters or punctuation 
+::Whitespace 
+
+Output Format 
+:: Return true if all characters in the string are digits. 
+::Return false if there is any non-digit character. 
+
+
+3 . You are given a strings consisting of words and spaces. 
+Your task is to reverse the order of the words in the string and return the result as a single string with: 
+-->Words separated by a single space 
+-->No leading or trailing spaces 
+-->No extra spaces between words 
+
+A word is defined as a sequence of non-space characters. 
+
+Input Format: 
+A single line containing a string s 
+::1≤s.length ≤ 10 
+The string may contain leading, trailing, or multiple spaces between words. 
+
+Output Format: 
+-->A single string with the words in reverse order, separated by a single space, and with no extra spaces. 
+Constraints: 
+The string contains only printable ASCII characters. 
+All words are separated by at least one space. 
+
+Example 1:
+Input: 
+"the sky is blue" 
+Output: 
+"blue is sky the 
+Example 2: 
+Input: 
+"hello world " 
+Output: 
+"world hello" 
+
+
+4 .  You are working on a text analytics feature for a content moderation system in a chat or social media application. 
+One of the requirements is to detect the longest word in a user-submitted message. This helps in identifying unusually long words that might be spam or gibberish. 
+Your task is to implement a program that takes a user's input string (message) and returns the longest word from it. 
+
+Input Format: 
+A single line of input containing a sentence s 
+1 s.length ≤ 1008 
+The sentence may include: 
+Uppercase/lowercase letters 
+Extra spaces (Leading Space, Trailing space) 
+No punctuation (for simplicity in this version) 
+
+Output Format: 
+Print the longest word in the input 
+If two or more words have the same length, return the first one 
+
+Example 1: 
+Input: 
+"I absolutely love programming and solving problems" 
+Output: 
+"programming" 
+Example 2: 
+Input: 
+"Artificial Intelligence is amazing 
+Output: 
+"Intelligence"
+
+
