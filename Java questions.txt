@@ -479,3 +479,25 @@ Output:
 "Intelligence"
 
 
+Assignment of June 5 
+
+1 .  You are given a strings consisting of words and spaces. 
+Your task is to reverse the order of the words in the string and return the result as a single 
+string with: 
+-->Words separated by a single space 
+-->No leading or trailing spaces 
+-->No extra spaces between words 
+A word is defined as a sequence of non-space characters. 
+
+Input Format: 
+::A single line containing a string s 
+::1 s.length ≤ 10* 
+:: The string may contain leading, trailing, or multiple spaces 
+between words. 
+
+Output Format: 
+-->A single string with the words in re verse order, separated by a single space, and with no extra spaces. 
+
+Constraints: 
+::The string contains only alphabets and spaces. 
+::All words are separated by at least one space. 
